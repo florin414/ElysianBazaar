@@ -1,0 +1,11 @@
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/bin/Debug/net8.0/Contracts.deps.json
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/bin/Debug/net8.0/Contracts.dll
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/bin/Debug/net8.0/Contracts.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/obj/Debug/net8.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfoInputs.cache
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfo.cs
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/obj/Debug/net8.0/Contracts.csproj.CoreCompileInputs.cache
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/obj/Debug/net8.0/Contracts.dll
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/obj/Debug/net8.0/refint/Contracts.dll
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/obj/Debug/net8.0/Contracts.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/obj/Debug/net8.0/ref/Contracts.dll

@@ -1,0 +1,45 @@
+[
+    {
+        "Name": "asgard",
+        "Id": "0419c94e081f9545fcf421213aaa8770b7040c3b52de5cd6eb2911c878e68ddc",
+        "Created": "2024-10-12T10:47:41.077979706+03:00",
+        "Scope": "local",
+        "Driver": "bridge",
+        "EnableIPv6": false,
+        "IPAM": {
+            "Driver": "default",
+            "Options": {},
+            "Config": [
+                {
+                    "Subnet": "172.19.0.0/16",
+                    "Gateway": "172.19.0.1"
+                }
+            ]
+        },
+        "Internal": false,
+        "Attachable": false,
+        "Ingress": false,
+        "ConfigFrom": {
+            "Network": ""
+        },
+        "ConfigOnly": false,
+        "Containers": {
+            "a5d3aa50358e56cb9dc2b701178a553081831fab4f5ed7a30d81c1e1cfa1115c": {
+                "Name": "odin",
+                "EndpointID": "dba326abd93e32fe404463531ac530ca65fbb9262adca7d636c6340dc60db773",
+                "MacAddress": "02:42:ac:13:00:03",
+                "IPv4Address": "172.19.0.3/16",
+                "IPv6Address": ""
+            },
+            "b0e8ac3764ac0fdea02f04a03e2d5dafb5e5b9db60ec4fd6c25b077de2e4b35b": {
+                "Name": "loki",
+                "EndpointID": "7b43da29c7749577d041004e3a5424884e45029819499e52f24919ac0d389c9b",
+                "MacAddress": "02:42:ac:13:00:02",
+                "IPv4Address": "172.19.0.2/16",
+                "IPv6Address": ""
+            }
+        },
+        "Options": {},
+        "Labels": {}
+    }
+]

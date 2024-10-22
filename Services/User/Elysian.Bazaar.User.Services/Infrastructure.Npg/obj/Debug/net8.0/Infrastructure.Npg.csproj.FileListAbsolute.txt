@@ -1,0 +1,15 @@
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/obj/Debug/net8.0/Infrastructure.Npg.csproj.AssemblyReference.cache
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/obj/Debug/net8.0/Infrastructure.Npg.GeneratedMSBuildEditorConfig.editorconfig
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/obj/Debug/net8.0/Infrastructure.Npg.AssemblyInfoInputs.cache
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/obj/Debug/net8.0/Infrastructure.Npg.AssemblyInfo.cs
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/obj/Debug/net8.0/Infrastructure.Npg.csproj.CoreCompileInputs.cache
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/obj/Debug/net8.0/Infrastructure.Npg.sourcelink.json
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/bin/Debug/net8.0/Infrastructure.Npg.deps.json
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/bin/Debug/net8.0/Infrastructure.Npg.dll
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/bin/Debug/net8.0/Infrastructure.Npg.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/obj/Debug/net8.0/Infrastructure.Npg.dll
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/obj/Debug/net8.0/refint/Infrastructure.Npg.dll
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/obj/Debug/net8.0/Infrastructure.Npg.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/obj/Debug/net8.0/ref/Infrastructure.Npg.dll
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/bin/Debug/net8.0/Infrastructure.Npg.runtimeconfig.json
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.Npg/obj/Debug/net8.0/Infrastructure.Npg.genruntimeconfig.cache

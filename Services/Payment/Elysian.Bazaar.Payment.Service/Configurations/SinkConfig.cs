@@ -1,4 +1,4 @@
-using Application.Logging;
+using Infrastructure.Logging.Sinks;
 using Serilog;
 using Serilog.Configuration;
 

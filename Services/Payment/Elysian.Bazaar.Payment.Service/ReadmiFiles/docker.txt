@@ -1,0 +1,48 @@
+docker run --rm -v $(pwd):/app -w /app mcr.microsoft.com/dotnet/sdk:8.0 
+ --> dotnet new console -n Logging
+  --> dotnet build
+   --> (cd Logging) dotnet run
+
+sudo touch Dockerfile
+
+docker build -t logging .
+
+docker run -d logging
+
+docker ps
+docker ps -a
+
+docker start <container_id or name_container>
+docker stop <container_id or name_container>
+docker rmi <image_id>
+docker rm <image_name>
+----------------
+docker-compose up --build
+docker-compose down
+
+docker system prune -a --volumes
+
+docker rm $(docker ps -a -q)
+
+
+------------------------------------------ network ---------------
+ docker network ls  
+ docker network create asgard
+ docker run -itd --rm --name thor busybox
+ bridge link 
+ ip address show
+ docker inspect bridge (default network)
+ docker inspect asgard (network)
+ docker inspect venom (image)
+ docker run -itd --rm -p 80:80 --name venom nginx
+ docker run -itd --rm --network asgard --name loki busybox
+ docker exec -it thor sh
+ docker run -itd --rm --network host --name venom nginx
+ docker inspect venom >  venom_container.json
+ docker inspect asgard > asgard_network_bridge.json
+ // DNS / DHCP
+ // install: sudo apt  install jq  
+ docker inspect venom | jq '.[0].State'
+ docker inspect venom | jq '{State: .[0].State, NetworkSettings: .[0].NetworkSettings}' > venom_filter.json
+
+

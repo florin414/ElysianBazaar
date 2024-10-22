@@ -1,0 +1,6 @@
+terraform init
+terraform apply
+
+// bash command
+export APPLICATIONINSIGHTS_CONNECTION_STRING="<connection-string-from-terraform>"
+0f3433ed-54b7-4648-a3f4-4be9416af278

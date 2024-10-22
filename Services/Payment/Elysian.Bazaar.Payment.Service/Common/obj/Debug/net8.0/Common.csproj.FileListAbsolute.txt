@@ -1,0 +1,16 @@
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/bin/Debug/net8.0/Common.deps.json
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/bin/Debug/net8.0/Common.dll
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/bin/Debug/net8.0/Common.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/Debug/net8.0/Common.csproj.AssemblyReference.cache
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/Debug/net8.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/Debug/net8.0/Common.AssemblyInfoInputs.cache
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/Debug/net8.0/Common.AssemblyInfo.cs
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/Debug/net8.0/Common.csproj.CoreCompileInputs.cache
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/Debug/net8.0/Common.dll
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/Debug/net8.0/refint/Common.dll
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/Debug/net8.0/Common.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/Debug/net8.0/ref/Common.dll
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/bin/Debug/net8.0/Infrastructure.dll
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/bin/Debug/net8.0/Infrastructure.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/Debug/net8.0/Common.sourcelink.json
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/Debug/net8.0/Common.csproj.CopyComplete

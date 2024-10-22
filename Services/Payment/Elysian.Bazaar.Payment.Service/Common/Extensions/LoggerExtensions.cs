@@ -1,5 +1,5 @@
 using System.Diagnostics;
-using Common.Models;
+using Infrastructure.Logging;
 using Microsoft.Extensions.Logging;
 
 namespace Common.Extensions;

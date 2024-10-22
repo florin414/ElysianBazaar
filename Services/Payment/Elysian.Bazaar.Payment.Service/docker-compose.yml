@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  payment:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: payment:latest
+    container_name: payment_container
+    ports:
+      - "8080:8080" 

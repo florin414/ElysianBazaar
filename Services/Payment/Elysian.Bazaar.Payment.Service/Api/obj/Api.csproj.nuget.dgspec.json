@@ -1,0 +1,367 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Api/Api.csproj": {}
+  },
+  "projects": {
+    "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Api/Api.csproj",
+        "packagesPath": "/home/florin-liviu/.nuget/packages/",
+        "outputPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/florin-liviu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Application/Application.csproj": {
+                "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Application/Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Application/Application.csproj",
+        "packagesPath": "/home/florin-liviu/.nuget/packages/",
+        "outputPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/florin-liviu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/Common.csproj": {
+                "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/Common.csproj"
+              },
+              "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/Contracts.csproj": {
+                "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/Contracts.csproj"
+              },
+              "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Infrastructure/Infrastructure.csproj"
+              },
+              "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/Repositories.csproj": {
+                "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/Common.csproj",
+        "projectName": "Common",
+        "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/Common.csproj",
+        "packagesPath": "/home/florin-liviu/.nuget/packages/",
+        "outputPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/florin-liviu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Destructurama.Attributed": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24473.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/Contracts.csproj",
+        "packagesPath": "/home/florin-liviu/.nuget/packages/",
+        "outputPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/florin-liviu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/home/florin-liviu/.nuget/packages/",
+        "outputPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/florin-liviu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24473.5, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/Repositories.csproj",
+        "packagesPath": "/home/florin-liviu/.nuget/packages/",
+        "outputPath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/florin-liviu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

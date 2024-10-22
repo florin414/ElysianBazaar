@@ -1,6 +1,5 @@
-﻿using Common.Models;
+﻿using Infrastructure.Logging;
 using Microsoft.Extensions.Logging;
-using LogLevel = Microsoft.Extensions.Logging.LogLevel;
 
 namespace Common.Extensions;
 

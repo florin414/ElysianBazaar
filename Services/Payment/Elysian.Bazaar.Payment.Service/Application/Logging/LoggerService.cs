@@ -1,6 +1,6 @@
 using Common.Extensions;
-using Common.Logging;
 using Common.Models;
+using Infrastructure.Logging;
 using Microsoft.Extensions.Logging;
 
 namespace Application.Logging;
@@ -18,6 +18,19 @@ public class LoggerService(ILoggerFactory loggerFactory)
     {
         LogPayment(Logger, email, amount, productId, null);
         Logger.LogPaymentCreation(email, amount, productId);
+        
+        using (Logger.BeginScope(new Dictionary<string, bool> { ["IsAudit"] = true }))
+        {
+            Logger.LogError("This is an audit log for an error!");
+        }
+
+        var transactionId = 4873249837248732;
+        
+        using (Logger.BeginScope(new Dictionary<string, object> { ["TransactionId"] = transactionId }))
+        {
+            Logger.LogInformation("Transaction started.");
+            Logger.LogInformation("Transaction completed.");
+        }
     }
     public void Run()
     {
@@ -25,7 +38,6 @@ public class LoggerService(ILoggerFactory loggerFactory)
         const int age = 30;
         Logger.LogInformation(LogEvents.OrderPlaced,"Numele este {Name} și vârsta este {Age}.", name, age);
         
-            
         var payment = new Payment
         {
             PaymentId = 1,

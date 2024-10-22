@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "td0ljmAl2vKj/HnwfYPIq5lv33SV4ezeEFDdVUellTkRrE1wQaqFC7GSNZi9MmIn9JcIv+OmexaR+bTUzt5PFw==",
+  "success": true,
+  "projectFilePath": "/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Common/Common.csproj",
+  "expectedPackageFiles": [
+    "/home/florin-liviu/.nuget/packages/destructurama.attributed/4.0.0/destructurama.attributed.4.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-rc.2.24473.5/microsoft.extensions.dependencyinjection.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-rc.2.24473.5/microsoft.extensions.dependencyinjection.abstractions.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.dependencymodel/8.0.2/microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.diagnostics.abstractions/8.0.0/microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.hosting.abstractions/8.0.0/microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.logging/9.0.0-rc.2.24473.5/microsoft.extensions.logging.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-rc.2.24473.5/microsoft.extensions.logging.abstractions.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.options/9.0.0-rc.2.24473.5/microsoft.extensions.options.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/microsoft.extensions.primitives/9.0.0-rc.2.24473.5/microsoft.extensions.primitives.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/serilog/3.1.1/serilog.3.1.1.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/serilog.aspnetcore/8.0.3/serilog.aspnetcore.8.0.3.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/serilog.extensions.hosting/8.0.0/serilog.extensions.hosting.8.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/serilog.extensions.logging/8.0.0/serilog.extensions.logging.8.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/serilog.formatting.compact/2.0.0/serilog.formatting.compact.2.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/serilog.settings.configuration/8.0.4/serilog.settings.configuration.8.0.4.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/serilog.sinks.console/5.0.0/serilog.sinks.console.5.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/serilog.sinks.debug/2.0.0/serilog.sinks.debug.2.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/serilog.sinks.file/5.0.0/serilog.sinks.file.5.0.0.nupkg.sha512",
+    "/home/florin-liviu/.nuget/packages/system.diagnostics.diagnosticsource/9.0.0-rc.2.24473.5/system.diagnostics.diagnosticsource.9.0.0-rc.2.24473.5.nupkg.sha512"
+  ],
+  "logs": []
+}

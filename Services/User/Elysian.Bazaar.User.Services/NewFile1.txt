@@ -1,0 +1,14 @@
+  accounts.service:
+    image: accounts.service
+    build:
+      context: .
+      dockerfile: Bootstrapper/Dockerfile
+    restart: always
+    environment:
+      ConnectionStrings__AccountsDb: Host=accounts.db;Port=5432;Database=AccountsDb;Username=postgres;Password=postgres
+      ConnectionStrings__RabbitMq: amqp://guest:guest@rabbitmq:5672/
+    ports:
+      - "8081:8080"
+    depends_on:
+      - accounts.db
+      - rabbitmq

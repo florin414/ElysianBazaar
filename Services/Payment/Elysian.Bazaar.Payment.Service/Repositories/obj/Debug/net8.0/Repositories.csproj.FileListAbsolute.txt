@@ -1,0 +1,11 @@
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/bin/Debug/net8.0/Repositories.deps.json
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/bin/Debug/net8.0/Repositories.dll
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/bin/Debug/net8.0/Repositories.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/obj/Debug/net8.0/Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfoInputs.cache
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfo.cs
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/obj/Debug/net8.0/Repositories.csproj.CoreCompileInputs.cache
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/obj/Debug/net8.0/Repositories.dll
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/obj/Debug/net8.0/refint/Repositories.dll
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/obj/Debug/net8.0/Repositories.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/Payment/Elysian.Bazaar.Payment.Service/Repositories/obj/Debug/net8.0/ref/Repositories.dll

@@ -1,0 +1,16 @@
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/bin/Debug/net8.0/Infrastructure.RabbitMq.deps.json
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/bin/Debug/net8.0/Infrastructure.RabbitMq.dll
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/bin/Debug/net8.0/Infrastructure.RabbitMq.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/bin/Debug/net8.0/Contracts.dll
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/bin/Debug/net8.0/Contracts.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/obj/Debug/net8.0/Infrastructure.RabbitMq.csproj.AssemblyReference.cache
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/obj/Debug/net8.0/Infrastructure.RabbitMq.GeneratedMSBuildEditorConfig.editorconfig
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/obj/Debug/net8.0/Infrastructure.RabbitMq.AssemblyInfoInputs.cache
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/obj/Debug/net8.0/Infrastructure.RabbitMq.AssemblyInfo.cs
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/obj/Debug/net8.0/Infrastructure.RabbitMq.csproj.CoreCompileInputs.cache
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/obj/Debug/net8.0/Infrastructure.RabbitMq.sourcelink.json
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/obj/Debug/net8.0/Infrastructure.RabbitMq.csproj.CopyComplete
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/obj/Debug/net8.0/Infrastructure.RabbitMq.dll
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/obj/Debug/net8.0/refint/Infrastructure.RabbitMq.dll
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/obj/Debug/net8.0/Infrastructure.RabbitMq.pdb
+/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Infrastructure.RabbitMq/obj/Debug/net8.0/ref/Infrastructure.RabbitMq.dll

@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Bootstrapper/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Bootstrapper/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Bootstrapper/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/florin-liviu/github/ElysianBazaar/Services/User/Elysian.Bazaar.User.Services/Bootstrapper/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Bootstrapper.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Bootstrapper.props",
+      "PackagePath": "build\\Bootstrapper.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Bootstrapper.props",
+      "PackagePath": "buildMultiTargeting\\Bootstrapper.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Bootstrapper.props",
+      "PackagePath": "buildTransitive\\Bootstrapper.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

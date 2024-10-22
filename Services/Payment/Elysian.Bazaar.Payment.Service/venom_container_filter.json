@@ -1,0 +1,52 @@
+{
+  "State": {
+    "Status": "running",
+    "Running": true,
+    "Paused": false,
+    "Restarting": false,
+    "OOMKilled": false,
+    "Dead": false,
+    "Pid": 26900,
+    "ExitCode": 0,
+    "Error": "",
+    "StartedAt": "2024-10-12T08:13:46.627795641Z",
+    "FinishedAt": "0001-01-01T00:00:00Z"
+  },
+  "NetworkSettings": {
+    "Bridge": "",
+    "SandboxID": "51d098cb02d13b767e4e560be1fd96a4db5c08a5e466c05bc4b9baed6522155b",
+    "SandboxKey": "/var/run/docker/netns/default",
+    "Ports": {},
+    "HairpinMode": false,
+    "LinkLocalIPv6Address": "",
+    "LinkLocalIPv6PrefixLen": 0,
+    "SecondaryIPAddresses": null,
+    "SecondaryIPv6Addresses": null,
+    "EndpointID": "",
+    "Gateway": "",
+    "GlobalIPv6Address": "",
+    "GlobalIPv6PrefixLen": 0,
+    "IPAddress": "",
+    "IPPrefixLen": 0,
+    "IPv6Gateway": "",
+    "MacAddress": "",
+    "Networks": {
+      "host": {
+        "IPAMConfig": null,
+        "Links": null,
+        "Aliases": null,
+        "MacAddress": "",
+        "DriverOpts": null,
+        "NetworkID": "66751ab2875b1c3d4f37591527b91bfdeab6691d2b0589f59856dd5adb2b714c",
+        "EndpointID": "0f20dced307108bb7127486fbc58fcd093ef01f933be9ea605f0b58cfeb67e3e",
+        "Gateway": "",
+        "IPAddress": "",
+        "IPPrefixLen": 0,
+        "IPv6Gateway": "",
+        "GlobalIPv6Address": "",
+        "GlobalIPv6PrefixLen": 0,
+        "DNSNames": null
+      }
+    }
+  }
+}
